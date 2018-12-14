@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : C:\Dropbox\_brand_\Card\Carduino\R2\_learning_\Altium\01 Learn PCB Desing By Designing an Arduino Nano in Altium, Udemy\Carduino.PcbDoc
+Date     : 12. 12. 2018
+Time     : 14:57:07
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=0.5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.03mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.1mm) Between Pad J2-3(44.5mm,5.334mm) on Top Layer And Pad J2-4(45.15mm,5.334mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.1mm) Between Pad J2-2(43.85mm,5.334mm) on Top Layer And Pad J2-3(44.5mm,5.334mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.215mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,28.321mm) on Top Overlay And Track (41.021mm,25.375mm)(41.021mm,28.067mm) on Top Overlay Silk Text to Silk Clearance [0.215mm]
+   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "web" (58.293mm,26.162mm) on Top Overlay And Track (41.021mm,25.781mm)(79.121mm,25.781mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
+   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.254mm) Between Text "LinkedIn / Facebook" (16.231mm,26.06mm) on Top Overlay And Track (9.779mm,25.781mm)(38.481mm,25.781mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
+   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "e-mail" (40.386mm,23.876mm) on Top Overlay And Track (9.779mm,23.495mm)(79.121mm,23.495mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
+   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,28.321mm) on Top Overlay And Track (41.021mm,30.099mm)(41.021mm,32.893mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
+   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "me" (54.229mm,32.766mm) on Top Overlay And Track (41.021mm,32.385mm)(70.231mm,32.385mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
+   Violation between Silk To Silk Clearance Constraint: (0.226mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,28.321mm) on Top Overlay And Track (70.231mm,29.947mm)(70.231mm,32.995mm) on Top Overlay Silk Text to Silk Clearance [0.226mm]
+Rule Violations :7
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:00
