@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Dropbox\_brand_\Card\Carduino\R2\_learning_\Altium\01 Learn PCB Desing By Designing an Arduino Nano in Altium, Udemy\Carduino.PcbDoc
-Date     : 12. 12. 2018
-Time     : 14:57:07
+Date     : 14. 12. 2018
+Time     : 15:50:30
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
@@ -31,21 +31,32 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.1mm) Between Pad J2-3(44.5mm,5.334mm) on Top Layer And Pad J2-4(45.15mm,5.334mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.1mm) Between Pad J2-2(43.85mm,5.334mm) on Top Layer And Pad J2-3(44.5mm,5.334mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
-Rule Violations :2
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.1mm) Between Pad J2-3(44.5mm,5.334mm) on Top Layer And Pad J2-2(43.85mm,5.334mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+Rule Violations :1
 
 Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.15mm) Between Text "Associate Professor in Mechatronics
+
+Slovak University of Technology
+Faculty of Mechanical Engineering
+Institute of Automation, Measurement 
+and Applied Informatics
+
+web:  http://www.gergelytakacs.com
+mail: gergelytakacs@gergelytakacs.com
+mail: gergely.takacs@stuba.sk
+cell: +421 907 165 720
+tel:  +421 2 5729 6712" (39.497mm,21.353mm) on Bottom Overlay And Pad P1-10(2.591mm,21.006mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.002mm]
+Rule Violations :1
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.215mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,28.321mm) on Top Overlay And Track (41.021mm,25.375mm)(41.021mm,28.067mm) on Top Overlay Silk Text to Silk Clearance [0.215mm]
-   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "web" (58.293mm,26.162mm) on Top Overlay And Track (41.021mm,25.781mm)(79.121mm,25.781mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
-   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.254mm) Between Text "LinkedIn / Facebook" (16.231mm,26.06mm) on Top Overlay And Track (9.779mm,25.781mm)(38.481mm,25.781mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
-   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "e-mail" (40.386mm,23.876mm) on Top Overlay And Track (9.779mm,23.495mm)(79.121mm,23.495mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
-   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,28.321mm) on Top Overlay And Track (41.021mm,30.099mm)(41.021mm,32.893mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
-   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "me" (54.229mm,32.766mm) on Top Overlay And Track (41.021mm,32.385mm)(70.231mm,32.385mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
-   Violation between Silk To Silk Clearance Constraint: (0.226mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,28.321mm) on Top Overlay And Track (70.231mm,29.947mm)(70.231mm,32.995mm) on Top Overlay Silk Text to Silk Clearance [0.226mm]
+   Violation between Silk To Silk Clearance Constraint: (0.226mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,27.813mm) on Top Overlay And Track (70.231mm,29.439mm)(70.231mm,32.487mm) on Top Overlay Silk Text to Silk Clearance [0.226mm]
+   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "me" (54.229mm,32.258mm) on Top Overlay And Track (41.021mm,31.877mm)(70.231mm,31.877mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
+   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,27.813mm) on Top Overlay And Track (41.021mm,29.591mm)(41.021mm,32.385mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
+   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "e-mail" (40.386mm,23.368mm) on Top Overlay And Track (9.779mm,22.987mm)(79.121mm,22.987mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
+   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.254mm) Between Text "LinkedIn / Facebook" (16.231mm,25.552mm) on Top Overlay And Track (9.779mm,25.273mm)(38.481mm,25.273mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
+   Violation between Silk To Silk Clearance Constraint: (0.231mm < 0.254mm) Between Text "web" (58.293mm,25.654mm) on Top Overlay And Track (41.021mm,25.273mm)(79.121mm,25.273mm) on Top Overlay Silk Text to Silk Clearance [0.231mm]
+   Violation between Silk To Silk Clearance Constraint: (0.215mm < 0.254mm) Between Text "gergelytakacs@gergelytakacs.com" (10.033mm,27.813mm) on Top Overlay And Track (41.021mm,24.867mm)(41.021mm,27.559mm) on Top Overlay Silk Text to Silk Clearance [0.215mm]
 Rule Violations :7
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
@@ -56,4 +67,4 @@ Rule Violations :0
 
 
 Violations Detected : 9
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:08

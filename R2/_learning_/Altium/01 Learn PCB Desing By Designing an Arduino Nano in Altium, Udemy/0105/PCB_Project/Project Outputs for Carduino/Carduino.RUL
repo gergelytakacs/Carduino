@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Dropbox\_brand_\Card\Carduino\R2\_learning_\Altium\01 Learn PCB Desing By Designing an Arduino Nano in Altium, Udemy\Carduino.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=PCBWay|Scope=Board|Minimum=6.00
