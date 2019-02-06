@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=TX Pin=U3-1
-Removed Pin From Net: NetName=RX Pin=U3-5
-Change Component Description : Designator=R1 Old Description=ROYAL OHM HP05W3F1001T5E  Rezistor: thick film; vysokovýkonný; SMD; 0805; 1k?; 0,3W; ±1% New Description=ROYAL OHM HP05W3F1001T5E  Rezistor: thick film; vysokovýkonný; SMD; 0805; 1k?; 0,3W; ±1%
-Change Component Description : Designator=R2 Old Description=ROYAL OHM HP05W3F1001T5E  Rezistor: thick film; vysokovýkonný; SMD; 0805; 1k?; 0,3W; ±1% New Description=ROYAL OHM HP05W3F1001T5E  Rezistor: thick film; vysokovýkonný; SMD; 0805; 1k?; 0,3W; ±1%
-Change Component Description : Designator=R3 Old Description=ROYAL OHM HP05W3F1001T5E  Rezistor: thick film; vysokovýkonný; SMD; 0805; 1k?; 0,3W; ±1% New Description=ROYAL OHM HP05W3F1001T5E  Rezistor: thick film; vysokovýkonný; SMD; 0805; 1k?; 0,3W; ±1%
-Added Pin To Net: NetName=RX Pin=U3-1
-Added Pin To Net: NetName=TX Pin=U3-5
